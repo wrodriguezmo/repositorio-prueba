@@ -10,3 +10,4 @@ git push / git push origin master -> Sube los cambios confirmados al repositorio
 CONFIGURACIONES GLOBALES
 git config --global user.email "wrodriguezmo@gmail.com"
 git config --global user.name "William Rodríguez Mora"
+
